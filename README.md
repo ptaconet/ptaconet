@@ -12,5 +12,5 @@ This GitHub repo contains the R scipts that I have developed over time, includin
 - operational R packages ([`modisfast`](https://github.com/ptaconet/modisfast))
 - under-development R packages ([`eodataflow`](https://github.com/ptaconet/eodataflow), [`getremotedata`](https://github.com/ptaconet/getremotedata), [`shub4r`](https://github.com/ptaconet/shub4r))
 - archived R packages ([`rtunaatlas`](https://github.com/ptaconet/rtunaatlas))
-- teaching material ([td_renovbati_montpellier](https://github.com/ptaconet/td_renovbati_montpellier), [formation_initiation_teledetection](https://github.com/ptaconet/formation_initiation_teledetection))
-- temporary R scripts developed in side-projects ([modeling_vector_mtp](https://github.com/ptaconet/modeling_vector_mtp))
+- teaching material ([`td_renovbati_montpellier`](https://github.com/ptaconet/td_renovbati_montpellier), [`formation_initiation_teledetection`](https://github.com/ptaconet/formation_initiation_teledetection), [`td_anopheles_environnement`](https://github.com/ptaconet/td_anopheles_environnement))
+- temporary R scripts developed in side-projects ([`modeling_vector_mtp`](https://github.com/ptaconet/modeling_vector_mtp))
