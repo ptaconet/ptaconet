@@ -6,3 +6,5 @@
 - I have expertise in Geographic Information Systems, Remote Sensing, Biostatistics, Machine learning, Spatial Relational Databases, Spatial Metadata management
 - I have a [PhD](https://theses.hal.science/tel-03841709) in geospatial data mining with a thematic focus on the bio-ecology of mosquitoes vectors of diseases from the University of Montpellier
 - I am a strong supporter of the Open Science movement ! 
+
+Check-out my CV (in french) [here](https://github.com/ptaconet/cv-main/blob/fd3b89b6dcb7ce540c70e5f94a426faaaab0048d/cv_frb_cesab.pdf) !
