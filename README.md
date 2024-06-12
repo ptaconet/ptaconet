@@ -7,4 +7,10 @@
 - I have a [PhD](https://theses.hal.science/tel-03841709) in geospatial data mining with a thematic focus on the bio-ecology of mosquitoes vectors of diseases from the University of Montpellier
 - I am a strong supporter of the Open Science movement ! 
 
-Check-out my CV (in french) [here](https://github.com/ptaconet/cv-main/blob/fd3b89b6dcb7ce540c70e5f94a426faaaab0048d/cv_frb_cesab.pdf) !
+This GitHub repo contains the R scipts that I have developed over time, including :
+
+- operational R packages ([`modisfast`](https://github.com/ptaconet/modisfast))
+- under-development R packages ([`eodataflow`](https://github.com/ptaconet/eodataflow), [`getremotedata`](https://github.com/ptaconet/getremotedata), [`shub4r`](https://github.com/ptaconet/shub4r))
+- archived R packages ([`rtunaatlas`](https://github.com/ptaconet/rtunaatlas))
+- teaching material ([td_renovbati_montpellier](https://github.com/ptaconet/td_renovbati_montpellier), [formation_initiation_teledetection](https://github.com/ptaconet/formation_initiation_teledetection))
+- temporary R scripts developed in side-projects ([modeling_vector_mtp](https://github.com/ptaconet/modeling_vector_mtp))
