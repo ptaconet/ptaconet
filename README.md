@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- I'm a postdoc researcher at the French Research Institute for Sustainable Development [(IRD)](https://en.ird.fr/home-page), in the unit : *Infectious Diseases and Vectors: Ecology, Genetics, Evolution, and Control* [(MIVEGEC)](https://mivegec.fr/en)
-- I'm currently working on topics related to the bio-ecology and diversity of malaria mosquitoes in West-Africa in the context of the DIV-YOO project (*DIVersitY of mOsquitOes in West-Africa*)
+- I'm a postdoc at the French Research Institute for Sustainable Development [(IRD)](https://en.ird.fr/home-page), in the unit : *Infectious Diseases and Vectors: Ecology, Genetics, Evolution, and Control* [(MIVEGEC)](https://mivegec.fr/en)
+- I'm a data scientist applied to bio-ecology, currently working on the DIV-YOO project (*DIVersitY of mOsquitOes in West-Africa*)
 - I'm interested in Geospatial Data Science applied to environmental sciences (in general) and bio-ecology (in particular)
 - I'm addicted to R and I like to develop open, reproducible and as-much-as-possible reusable R scripts, that I share in this repo ! 
 - I have expertise in Geographic Information Systems, Remote Sensing, Biostatistics, Machine learning, Spatial Relational Databases, Spatial (Meta)Data management
@@ -15,3 +15,4 @@ This GitHub repo contains the R scipts that I have developed over time, includin
 - archived R packages ([`rtunaatlas`](https://github.com/ptaconet/rtunaatlas))
 - teaching material ([`td_renovbati_montpellier`](https://github.com/ptaconet/td_renovbati_montpellier), [`formation_initiation_teledetection`](https://github.com/ptaconet/formation_initiation_teledetection), [`td_anopheles_environnement`](https://github.com/ptaconet/td_anopheles_environnement))
 - temporary R scripts developed in side-projects ([`modeling_vector_mtp`](https://github.com/ptaconet/modeling_vector_mtp))
+- and many other stuff !
