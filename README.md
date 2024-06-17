@@ -5,7 +5,7 @@
 - I'm interested in Geospatial Data Science applied to environmental sciences
 - I'm addicted to R and I like to develop open, reproducible and as-much-as-possible reusable R scripts, that I share in this repo ! 
 - I have an interdisciplinary profile in computer and data sciences, statistical modelling, geography, remote sensing, bio-ecology and eco-epidemiology
-- I have a [PhD](https://theses.hal.science/tel-03841709) in geospatial data mining with a thematic focus on the bio-ecology of mosquitoes vectors of diseases from the University of Montpellier
+- I have a [PhD](https://theses.hal.science/tel-03841709) from the University of Montpellier, in geospatial data mining for the bio-ecology of mosquitoes vectors of diseases in West Africa
 - I am a strong supporter of the Open Science movement ! 
 
 This GitHub repo contains the R scipts that I have developed over time, including :
