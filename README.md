@@ -2,9 +2,8 @@
 
 - I'm a postdoc at the French Research Institute for Sustainable Development [(IRD)](https://en.ird.fr/home-page), in the unit : *Infectious Diseases and Vectors: Ecology, Genetics, Evolution, and Control* [(MIVEGEC)](https://mivegec.fr/en)
 - I'm a data scientist applied to bio-ecology, currently working on the DIV-YOO project (*DIVersitY of mOsquitOes in West-Africa*)
-- I'm interested in Geospatial Data Science applied to environmental sciences
-- I have an interdisciplinary profile in computer and data sciences, statistical modelling, geography, remote sensing, bio-ecology and eco-epidemiology
-- I have a [PhD](https://theses.hal.science/tel-03841709) from the University of Montpellier, in geospatial data mining for the bio-ecology of mosquitoes vectors of diseases in West Africa
+- I have an interdisciplinary profile in computer science, data science, statistical modelling, machine learning, geography, GIS, remote sensing, bio-ecology and eco-epidemiology
+- I have a [PhD](https://theses.hal.science/tel-03841709) from the University of Montpellier, in geospatial data mining for the bio-ecology of mosquitoes vectors of diseases
 - I am a strong supporter of the Open Science movement ! 
 
 I'm addicted to R and I like to develop open, reproducible and as-much-as-possible reusable R scripts, that I share in this GitHub repo ! You can find here :
